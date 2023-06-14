@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\classmembex\bin\Debug\net6.0\classmembex.exe
+C:\Users\IJAS\source\repos\classmembex\bin\Debug\net6.0\classmembex.deps.json
+C:\Users\IJAS\source\repos\classmembex\bin\Debug\net6.0\classmembex.runtimeconfig.json
+C:\Users\IJAS\source\repos\classmembex\bin\Debug\net6.0\classmembex.dll
+C:\Users\IJAS\source\repos\classmembex\bin\Debug\net6.0\classmembex.pdb
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\classmembex.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\classmembex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\classmembex.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\classmembex.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\classmembex.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\classmembex.dll
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\refint\classmembex.dll
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\classmembex.pdb
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\classmembex.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\classmembex\obj\Debug\net6.0\ref\classmembex.dll

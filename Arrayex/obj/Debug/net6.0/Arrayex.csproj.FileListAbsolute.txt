@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\Arrayex\bin\Debug\net6.0\Arrayex.exe
+C:\Users\IJAS\source\repos\Arrayex\bin\Debug\net6.0\Arrayex.deps.json
+C:\Users\IJAS\source\repos\Arrayex\bin\Debug\net6.0\Arrayex.runtimeconfig.json
+C:\Users\IJAS\source\repos\Arrayex\bin\Debug\net6.0\Arrayex.dll
+C:\Users\IJAS\source\repos\Arrayex\bin\Debug\net6.0\Arrayex.pdb
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\Arrayex.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\Arrayex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\Arrayex.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\Arrayex.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\Arrayex.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\Arrayex.dll
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\refint\Arrayex.dll
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\Arrayex.pdb
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\Arrayex.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\Arrayex\obj\Debug\net6.0\ref\Arrayex.dll

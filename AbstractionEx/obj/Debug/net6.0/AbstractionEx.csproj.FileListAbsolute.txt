@@ -1,0 +1,15 @@
+C:\Users\IJAS\source\repos\AbstractionEx\bin\Debug\net6.0\AbstractionEx.exe
+C:\Users\IJAS\source\repos\AbstractionEx\bin\Debug\net6.0\AbstractionEx.deps.json
+C:\Users\IJAS\source\repos\AbstractionEx\bin\Debug\net6.0\AbstractionEx.runtimeconfig.json
+C:\Users\IJAS\source\repos\AbstractionEx\bin\Debug\net6.0\AbstractionEx.dll
+C:\Users\IJAS\source\repos\AbstractionEx\bin\Debug\net6.0\AbstractionEx.pdb
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\AbstractionEx.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\AbstractionEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\AbstractionEx.AssemblyInfoInputs.cache
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\AbstractionEx.AssemblyInfo.cs
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\AbstractionEx.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\AbstractionEx.dll
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\refint\AbstractionEx.dll
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\AbstractionEx.pdb
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\AbstractionEx.genruntimeconfig.cache
+C:\Users\IJAS\source\repos\AbstractionEx\obj\Debug\net6.0\ref\AbstractionEx.dll
